@@ -1,0 +1,68 @@
+/* .book-details-container {
+    padding: 20px;
+  }
+  
+  .book-details {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .book-details p {
+    margin-bottom: 5px;
+  }
+  
+  .loading {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+  }
+   */
+
+
+   /* BookDetails.css */
+
+/* Styling for the book details container */
+.book-details-container {
+  padding: 20px;
+}
+
+/* Styling for the book details */
+.book-details {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the book title */
+.book-details h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Styling for the book poster image */
+.book-details .book-poster {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Styling for the book details text */
+.book-details p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+/* Styling for the loading text */
+.loading {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+}

@@ -1,0 +1,19 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('../src/assets/image.jpg'); /* Adjust the path to point to the correct location */
+    background-size: cover;
+    color: #fff;
+}
+
+.home-container h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.home-container p {
+    font-size: 1.5rem;
+}
